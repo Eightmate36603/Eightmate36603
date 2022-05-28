@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github-readme-codewars-stats.herokuapp.com/api/?username=Eightmate36603&card&colormode=dark_mode)
 <!--
 **Eightmate36603/Eightmate36603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
