@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Eightmate36603&card&colormode=dark_mode" /><img src="https://leetcode.card.workers.dev/?username=Eightmate36603&height=180&witdh=400" /></div>
+<p align="center"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Eightmate36603&card&colormode=dark_mode" /><img src="https://leetcode.card.workers.dev/?username=Eightmate36603&height=180&witdh=200" /></div>
 <!--
 **Eightmate36603/Eightmate36603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![]()
